@@ -1,0 +1,1 @@
+{"rustc":834860773259020163,"features":"","target":0,"profile":0,"path":0,"deps":[[4865950802260201545,"build_script_build",false,480818741620730943]],"local":[{"RerunIfChanged":{"output":"wasm32-unknown-unknown/release/build/wasm-bindgen-71cbda9318d7cee2/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0}
